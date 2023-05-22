@@ -1,6 +1,6 @@
 # ScrollViewUsingSwiftUI
 
-Just like Story in Insatagram , Spotify , Movie Apps etc
+Just like Story in Instagram , Spotify , Movie Apps etc
 
 
 
